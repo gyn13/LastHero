@@ -1,11 +1,6 @@
-# 🐞 Relatório de Bugs — Hero vs Boss
+# 🐞 Relatório de Bugs — Last Hero
 
-## 🔴 [Gravidade Alta] — Rolagem atravessa parede
-**Descrição:** Ao rolar próximo à borda, o personagem atravessa a parede.
-**Reprodução:** Segure shift + seta direita encostado na parede.
-**Status:** Em investigação
-
-## 🟡 [Gravidade Média] — Boss não ataca após respawn
-**Descrição:** Após reiniciar a cena, o boss fica parado.
-**Reprodução:** Derrote o boss, reinicie a cena.
-**Status:** Corrigido na versão 1.0.3
+## 🟡 [Gravidade Média] — Animação de Pulo e Rolamento Bugada
+**Descrição:** Ao apertar as teclas de pulo e rolamento a animação não sai do jeito certo.
+**Reprodução:** Aperte Space (para pulo) ou Shift (para rolamento).
+**Status:** Corrigido!
